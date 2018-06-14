@@ -8,6 +8,10 @@ In the root folder of the project:
 
 `mvn clean install`
 
+## Run
+The adapter is the interface of this VAS to Vicinity. In order to run this VAS, in the target folder of the project:
+
+`java -jar adapter-0.0.1-SNAPSHOT.jar`
 
 # 3. Functionality and API
 
